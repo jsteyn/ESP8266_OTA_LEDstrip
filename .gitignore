@@ -2,3 +2,4 @@ build/
 *.svd
 *.json
 *.cfg
+arduino_secrets.h
